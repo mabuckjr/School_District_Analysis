@@ -15,8 +15,13 @@ However, before I was able to gather all of this information, I needed to clean 
 ### School District Summary
 #### The Original Data's District Summary
 ![](Resources/Old%20District%20Analysis.PNG)
-#### The New Data's District Summary
+#### The Refactored Data's District Summary
 ![](Resources/New%20District%20Analysis.PNG)
+### School Comparison
+#### The Original Data's School Summary
+![](Resources/Old%20School%20SSummary.PNG)
+#### The Refactored Data's School Summary
+![](Resources/New%20School%20SSummary.PNG)
 
 
 ## Summary
