@@ -13,5 +13,8 @@ In this project, I analyzed the math and reading test scores of highschoolers th
 However, before I was able to gather all of this information, I needed to clean up the data since there was academic dishonesty found in 9th grade students at Thomas High School. I replaced all of their scores with "NaN" to ensure that cheating didn't influence the average scores and percentages district-wide.
 ## Results
 ### School District Summary
+#### The Original Data's District Summary
 ![](Resources/Old%20District%20Analysis.PNG)
+#### The New Data's District Summary
+![](Resources/New%20District%20Analysis.PNG)
 ## Summary
