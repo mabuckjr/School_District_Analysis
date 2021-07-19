@@ -1,4 +1,5 @@
 # School District Analysis
+
 ## Overview
 In this project, I analyzed the math and reading test scores of highschoolers throughout a school district with 15 schools. Through my analysis, I was able to compare the results in many different fashions:
 
@@ -11,17 +12,27 @@ In this project, I analyzed the math and reading test scores of highschoolers th
 - The test scores by school type, whether it be a charter or district school
 
 However, before I was able to gather all of this information, I needed to clean up the data since there was academic dishonesty found in 9th grade students at Thomas High School. I replaced all of their scores with "NaN" to ensure that cheating didn't influence the average scores and percentages district-wide.
+
 ## Results
 ### School District Summary
 #### The Original Data's District Summary
 ![](Resources/Old%20District%20Analysis.PNG)
 #### The Refactored Data's District Summary
 ![](Resources/New%20District%20Analysis.PNG)
+
 ### School Comparison
 #### The Original Data's School Summary
 ![](Resources/Old%20School%20Summary.PNG)
 #### The Refactored Data's School Summary
 ![](Resources/New%20School%20Summary.PNG)
 
+### Thomas High School 9th Grade Test Scores
+#### The Original Scores
+![](Resources/Old%20Thomas%20High%20School.PNG)
+#### The Refactored Scores
+![](Resources/New%20Thomas%20High%20School.PNG)
+
+### Math and Reading Scores by Grade
+#### The Original Math and Reading Scores
 
 ## Summary
