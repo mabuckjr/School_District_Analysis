@@ -13,7 +13,7 @@ In this project, I analyzed the math and reading test scores of highschoolers th
 
 However, before I was able to gather all of this information, I needed to clean up the data since there was academic dishonesty found in 9th grade students at Thomas High School. I replaced all of their scores with "NaN" to ensure that cheating didn't influence the average scores and percentages district-wide.
 
-## Results
+## Results: Data
 ### School District Summary
 #### The Original Data's District Summary
 ![](Resources/Old%20District%20Analysis.PNG)
@@ -32,7 +32,12 @@ However, before I was able to gather all of this information, I needed to clean 
 #### The Refactored Scores
 ![](Resources/New%20Thomas%20High%20School.PNG)
 
-### Math and Reading Scores by Grade
-#### The Original Math and Reading Scores
+### The Refactored Math and Reading Scores by Grade
+![](Resources/New%20Math%20Scores%20by%20Grade.PNG)
+![](Resources/New%20Reading%20Scores%20by%20Grade.PNG)
+
+### Scores by School's Spending per Student
+![](Resources/New%20Spending%20per%20Student.PNG)
+
 
 ## Summary
