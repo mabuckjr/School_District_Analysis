@@ -19,9 +19,9 @@ However, before I was able to gather all of this information, I needed to clean 
 ![](Resources/New%20District%20Analysis.PNG)
 ### School Comparison
 #### The Original Data's School Summary
-![](Resources/Old%20School%20SSummary.PNG)
+![](Resources/Old%20School%20Summary.PNG)
 #### The Refactored Data's School Summary
-![](Resources/New%20School%20SSummary.PNG)
+![](Resources/New%20School%20Summary.PNG)
 
 
 ## Summary
