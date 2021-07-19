@@ -33,9 +33,13 @@ However, before I was able to gather all of this information, I needed to clean 
 ![](Resources/New%20Thomas%20High%20School.PNG)
 
 ### The Refactored Math and Reading Scores by Grade
-#### Math Scores
+#### Old Math Scores
+![](Resources/Old%20Math%20Scores%20by%20Grade.PNG)
+#### New Math Scores
 ![](Resources/New%20Math%20Scores%20by%20Grade.PNG)
-#### Reading Scores
+#### Old Reading Scores
+![](Resources/Old%20Reading%20Scores%20by%20Grade.PNG)
+#### New Reading Scores
 ![](Resources/New%20Reading%20Scores%20by%20Grade.PNG)
 
 ### Test Scores by School's Spending per Student
@@ -67,6 +71,6 @@ With all of this data, it can be easy to overlook what changed when I refactored
   - The overall passing rate of students for both tests decreased by about 0.32%
 - After refactoring the code, the changes to the overall passing rate were not greatly impactful, as they would still rank as the 2nd highest scoring school overall
 - Replacing the ninth grade scores only affects the math and reading scores for Thomas High School. It especially affects the ninth-grade class at the school, which now has "NaN's" for their test scores now. If we had taken an average of all 9th grade test scores across all schools, removing the data would have likely decreased the average slightly, as Thomas High School's average is usually  a bit higher that other schools.
-- The Test scores by school spending, school size, and school type were not affected after the refactoring
+- The test scores by school spending, school size, and school type were not affected after the refactoring
 
 ## Summary
