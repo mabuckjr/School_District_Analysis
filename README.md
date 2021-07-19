@@ -26,10 +26,10 @@ However, before I was able to gather all of this information, I needed to clean 
 #### The Refactored Data's School Summary
 ![](Resources/New%20School%20Summary.PNG)
 
-### Thomas High School 9th Grade Test Scores
+### Thomas High School Average Test Score Data
 #### The Original Scores
 ![](Resources/Old%20Thomas%20High%20School.PNG)
-#### The Refactored Scores
+#### The Refactored Scores (with the 9th Grade Scores removed)
 ![](Resources/New%20Thomas%20High%20School.PNG)
 
 ### The Refactored Math and Reading Scores by Grade
@@ -57,4 +57,7 @@ However, before I was able to gather all of this information, I needed to clean 
 ![](Resources/New%20School%20Type.PNG)
 
 ## Results: Analysis
+With all of this data, it can be easy to overlook what changed when I refactored it. Below is a list of the main changes that occurred when I removed the 9th grade test scores from the dataset:
+- 
+
 ## Summary
