@@ -73,4 +73,5 @@ With all of this data, it can be easy to overlook what changed when I refactored
 
 ## Summary
 I was surprised to find that removing an entire grade's test scores from the dataset didn't change any of the data by all that much. Ther weren't any average scores or percentages that changed by more that 0.5 or 0.5%. This is likely because we had a large amount of data to begin with. While the changes weren't large, it is interesting to see how Thomas High School increases the test score averages for the entire district. It is unfortunate that some students cheated, as the rest of the class would have helped increase the district's overall metrics. 
+
 At the district-level, the average math score decreased by 0.1 to 78.9. The average reading score did not decrease. The percentage of students passing math decreased by 0.2% to 74.8%. The percentage of students passing reading decreased by 0.1% to 85.7%. The overall passing rate for both tests decreased by 0.3% to 64.9%.
