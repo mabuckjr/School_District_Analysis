@@ -42,9 +42,6 @@ However, before I was able to gather all of this information, I needed to clean 
 #### New Reading Scores
 ![](Resources/New%20Reading%20Scores%20by%20Grade.PNG)
 
-### Test Scores by School's Spending per Student
-![](Resources/New%20Spending%20per%20Student.PNG)
-
 ### Top and Bottom Performing Schools
 #### Top 5 Schools
 ![](Resources/Top%205%20Schools.PNG)
