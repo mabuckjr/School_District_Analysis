@@ -58,6 +58,15 @@ However, before I was able to gather all of this information, I needed to clean 
 
 ## Results: Analysis
 With all of this data, it can be easy to overlook what changed when I refactored it. Below is a list of the main changes that occurred when I removed the 9th grade test scores from the dataset:
-- 
+- When looking at the district analysis, the average math score decreased by 0.1, the The percent of students passing math decreased by 0.2%, the percent passing reading decreased by 0.1%, and the overall passing percentage decreased by 0.3%
+- In the school summary, only Thomas High School had any changes after I refactored the data:
+  - The average math score decreased by about 0.06
+  - The average reading score increased by about 0.05
+  - The percent of students passing math decreased by about 0.09%
+  - The percent of students passing reading decreased by about .28%
+  - The overall passing rate of students for both tests decreased by about 0.32%
+- After refactoring the code, the changes to the overall passing rate were not greatly impactful, as they would still rank as the 2nd highest scoring school overall
+- Replacing the ninth grade scores only affects the math and reading scores for Thomas High School. It especially affects the ninth-grade class at the school, which now has "NaN's" for their test scores now. If we had taken an average of all 9th grade test scores across all schools, removing the data would have likely decreased the average slightly, as Thomas High School's average is usually  a bit higher that other schools.
+- The Test scores by school spending, school size, and school type were not affected after the refactoring
 
 ## Summary
