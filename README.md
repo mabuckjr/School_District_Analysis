@@ -33,11 +33,28 @@ However, before I was able to gather all of this information, I needed to clean 
 ![](Resources/New%20Thomas%20High%20School.PNG)
 
 ### The Refactored Math and Reading Scores by Grade
+#### Math Scores
 ![](Resources/New%20Math%20Scores%20by%20Grade.PNG)
+#### Reading Scores
 ![](Resources/New%20Reading%20Scores%20by%20Grade.PNG)
 
-### Scores by School's Spending per Student
+### Test Scores by School's Spending per Student
 ![](Resources/New%20Spending%20per%20Student.PNG)
 
+### Top and Bottom Performing Schools
+#### Top 5 Schools
+![](Resources/Top%205%20Schools.PNG)
+#### Bottom 5 Schools
+![](Resources/Bottom%205%20Schools.PNG)
 
+### Test Scores by School Spending
+![](Resources/New%20Spending%20per%20Student.PNG)
+
+### Test Scores by School Size
+![](Resources/New%20School%20Size.PNG)
+
+### Test Scores by School Type
+![](Resources/New%20School%20Type.PNG)
+
+## Results: Analysis
 ## Summary
