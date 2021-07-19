@@ -17,4 +17,5 @@ However, before I was able to gather all of this information, I needed to clean 
 ![](Resources/Old%20District%20Analysis.PNG)
 #### The New Data's District Summary
 ![](Resources/New%20District%20Analysis.PNG)
+
 ## Summary
